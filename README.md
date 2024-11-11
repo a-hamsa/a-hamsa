@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as freelance<br>🌱 I’m currently learning React, Laravel, and CodeIgniter<br>💬 Ask me about anything<br>⚡ Fun fact my prompt writing are insane
+🔭 I’m currently working as freelance<br>🌱 I’m currently learning ASP.NET, React, Laravel, and CodeIgniter<br>💬 Ask me about anything<br>⚡ Fun fact my prompt writing are insane
 
 
 ## 🌐 Socials:
